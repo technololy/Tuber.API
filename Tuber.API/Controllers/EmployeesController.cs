@@ -42,6 +42,14 @@ namespace Tuber.API.Controllers
         public void Delete(int id)
         {
         }
+
+            // DELETE api/values/5
+        [HttpDelete("AddEmployeeFriendsAndFamily/{id}")]
+        public void AddEmployeeFriendsAndFamily(int id)
+        {
+        }
+
+        
     }
 }
 
