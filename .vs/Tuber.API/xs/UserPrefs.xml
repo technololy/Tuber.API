@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{FA99E288-1FB0-4AD1-B492-29568B26D1BA}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Tuber.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Tuber.API/Controllers/CustomersController.cs">
+    <Files>
+      <File FileName="Tuber.API/Controllers/EmployeesController.cs" Line="1" Column="1" />
+      <File FileName="Tuber.API/Controllers/CustomersController.cs" Line="1" Column="1" />
+      <File FileName="Tuber.API/Controllers/OrdersController.cs" Line="41" Column="29" />
+      <File FileName="Tuber.API/Controllers/OnboardingController.cs" Line="20" Column="27" />
+      <File FileName="Tuber.API/Startup.cs" Line="29" Column="30" />
+      <File FileName="Tuber.API/Tuber.API.csproj" Line="6" Column="1" />
+      <File FileName="Tuber.API/Properties/launchSettings.json" Line="17" Column="32" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Tuber.API" expanded="True">
+            <Node name="Tuber.API" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="CustomersController.cs" selected="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

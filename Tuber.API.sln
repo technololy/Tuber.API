@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1703.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tuber.API", "Tuber.API\Tuber.API.csproj", "{FA99E288-1FB0-4AD1-B492-29568B26D1BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA99E288-1FB0-4AD1-B492-29568B26D1BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA99E288-1FB0-4AD1-B492-29568B26D1BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA99E288-1FB0-4AD1-B492-29568B26D1BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA99E288-1FB0-4AD1-B492-29568B26D1BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {451E33C5-0CFA-4D0F-ACD7-47BC7698DEEF}
+	EndGlobalSection
+EndGlobal
