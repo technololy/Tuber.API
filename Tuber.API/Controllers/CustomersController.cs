@@ -18,6 +18,13 @@ namespace Tuber.API.Controllers
             return new string[] { "value1", "value2" };
         }
 
+                 // GET api/values/5
+        [HttpGet("DeleteMyRecord/{id}")]
+        public string DeleteMyRecord(int id)
+        {
+            return "value";
+        }
+
         // GET api/values/5
         [HttpGet("{id}")]
         public string Get(int id)
